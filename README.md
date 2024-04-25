@@ -5,5 +5,5 @@ GPT Lens is an LLM tool to check for security breaches in smart contracts. To le
 ## Run Demo
 
 ```
-python GPTLens_demo/gui_test.py
+python src/gui_test.py
 ```
